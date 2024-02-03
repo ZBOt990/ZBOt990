@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Apmash.<br>👯 I’m looking to collaborate on projects with you.<br>🤝 I’m looking for help with nothing for now.<br>🌱 I’m currently learning ASM and C++.<br>💬 Ask me about Anything :)<br>
+🔭 I’m currently working with Mustafa on DAM.<br>👯 I’m looking to collaborate on projects with you.<br>🤝 I’m looking for help with nothing for now.<br>🌱 I’m currently learning ASM and C++.<br>💬 Ask me about Anything :)<br>
 
 
 # 💻 Tech Stack:
